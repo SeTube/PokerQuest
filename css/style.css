@@ -1,0 +1,78 @@
+html,
+body {
+  background: #fbede2;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}
+#openfl-content {
+  background: #fbede2;
+  width: 100%;
+  height: 100%;
+}
+@font-face {
+  font-family: "Amiko";
+  src: url("../fonts/Amiko-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/Amiko-Regular.woff")
+      format("woff"),
+    url("../fonts/Amiko-Regular.ttf")
+      format("truetype"),
+    url("../fonts/Amiko-Regular.svg#Amiko")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Consolas";
+  src: url("../fonts/consola.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/consola.woff")
+      format("woff"),
+    url("../fonts/consola.ttf")
+      format("truetype"),
+    url("../fonts/consola.svg#Consolas")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Cormorant SC Bold";
+  src: url("../fonts/CormorantSC-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/CormorantSC-Bold.woff")
+      format("woff"),
+    url("../fonts/CormorantSC-Bold.ttf")
+      format("truetype"),
+    url("../fonts/CormorantSC-Bold.svg#Cormorant%20SC%20Bold")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Franklin Gothic Heavy";
+  src: url("../fonts/FranklinGothicHeavy.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/FranklinGothicHeavy.woff")
+      format("woff"),
+    url("../fonts/FranklinGothicHeavy.ttf")
+      format("truetype"),
+    url("../fonts/FranklinGothicHeavy.svg#Franklin%20Gothic%20Heavy")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "PF Ronda Seven";
+  src: url("../fonts/pf_ronda_seven.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/pf_ronda_seven.woff")
+      format("woff"),
+    url("../fonts/pf_ronda_seven.ttf")
+      format("truetype"),
+    url("../fonts/pf_ronda_seven.svg#PF%20Ronda%20Seven")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
